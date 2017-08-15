@@ -1,10 +1,20 @@
+gr__,
+body {
+  margin: 0;
+  height: 100vh;
+}
+
 #particles-js {
   background: #2e2e86;
-  height: 40em;
+  height: 100vh;
 }
 
 #banner {
+  position: absolute;
   font-family: 'Just Another Hand', cursive;
   font-size: 4em;
   color: #fff;
+  top: 50%;
+  left: 50%;
+  opacity: 90;
 }
