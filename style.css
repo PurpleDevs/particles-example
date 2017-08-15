@@ -12,9 +12,8 @@ body {
 #banner {
   position: absolute;
   font-family: 'Just Another Hand', cursive;
-  font-size: 4em;
+  font-size: 5em;
   color: #fff;
-  top: 50%;
-  left: 50%;
-  opacity: 90;
+  top: 25%;
+  left: 40%;
 }
